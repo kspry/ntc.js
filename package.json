@@ -1,0 +1,24 @@
+{
+  "name": "ntc.js",
+  "version": "1.0.1",
+  "description": "Name That Color",
+  "main": "ntc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kspry/ntc.js.git"
+  },
+  "keywords": [
+    "color",
+    "name",
+    "hex"
+  ],
+  "author": "",
+  "license": "CC-BY-2.5",
+  "bugs": {
+    "url": "https://github.com/kspry/ntc.js/issues"
+  },
+  "homepage": "https://github.com/kspry/ntc.js#readme"
+}
